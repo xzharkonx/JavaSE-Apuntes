@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/CursoSE.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-42.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-9.4.1209.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
